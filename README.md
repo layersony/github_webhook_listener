@@ -16,7 +16,7 @@ Set up the GitHub webhook:
 
 ### Payload URL
 ```bash
-<live server url>/webhook/<name of repository>
+https://<live server url>/webhook/<name of repository>
 ```
 ## Contact Me
 Email me on [Gmail](sammaingi5@gmail.com)
